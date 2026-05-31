@@ -16,13 +16,13 @@ For this Repository, **2600** samples are used with **100** per sample across al
 
 This is the confusion matrix showing the performance of this demonstration :
 
-![-](images/cm1.png)
+![](images/cm1.png)
 
-![-](images/cm2.png)
+![](images/cm2.png)
 
 ## Classification Demo
 
 This are some Example demo for the demonstration :
 
-![-](images/predictions_train.png)
-![-](images/predictions_train2.png)
+![](images/predictions_train.png)
+![](images/predictions_train2.png)
